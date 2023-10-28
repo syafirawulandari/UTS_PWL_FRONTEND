@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#content-container {
+  width: calc(100vw-120px);
+}
+.active {
+  color: #739072;
+}
